@@ -32,18 +32,18 @@ body {
 }
 
 #title-1{
-		background-color: pink;
-		color: black;
+	background-color: pink;
+	color: black;
 }
 
 #title-2{
-		background-color: red;
-		color: white;
+	background-color: red;
+	color: white;
 }
 
 #title-3{
-		background-color: lightyellow;
-		color: black;
+	background-color: lightyellow;
+	color: black;
 }
 
 h1 {
@@ -95,6 +95,5 @@ p {
 	.box {
 		width: 100%;
 		margin-bottom: 28px;
-	}
-}
+	}     
 }
